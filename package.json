@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "simple-clock",
+  "version": "1.0.0",
+  "description": "A simple clock",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shahabuddin",
+  "license": "ISC"
+}
